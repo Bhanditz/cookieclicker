@@ -1,0 +1,24 @@
+body {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	background-color: #afc;
+}
+
+#cookieDiv {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 600px;
+	width: 600px;
+}
+
+.clicked {
+	width: 500px;
+	height: 500px;
+}
+
+.hidden {
+	display: none;
+}
